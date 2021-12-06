@@ -272,67 +272,77 @@
         "value": "#33000c",
         "type": "color",
         "description": "Red Shade 8 / Красная тень 8\nBase Color /  Базовый цвет\nref.base-color.red-shade-8: #33000c\nrgb(51, 0, 12)\nhsl(345.9, 100%, 10%)\ncmyk(0, 100, 76, 80)"
+      }
+    },
+    "shade-color": {
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "tint-color": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "typeface": {
+      "brand-font": {
+        "value": "Raleway",
+        "type": "fontFamilies"
       },
-      "brand-typeface": {
+      "weight": {
         "regular": {
-          "value": "Raleway Regular",
-          "type": "fontFamilies"
+          "value": "400",
+          "type": "fontWeights"
         },
         "semibold": {
-          "value": "Raleway Semibold",
-          "type": "fontFamilies"
+          "value": "600",
+          "type": "fontWeights"
         },
         "bold": {
-          "value": "Raleway Bold",
-          "type": "fontFamilies"
-        }
-      },
-      "opacity": {
-        "1": {
-          "value": "0.1",
-          "type": "opacity"
-        },
-        "2": {
-          "value": "0.2",
-          "type": "opacity"
-        },
-        "3": {
-          "value": "0.3",
-          "type": "opacity"
-        },
-        "4": {
-          "value": "0.4",
-          "type": "opacity"
-        },
-        "5": {
-          "value": "0.5",
-          "type": "opacity"
-        },
-        "6": {
-          "value": "0.6",
-          "type": "opacity"
-        },
-        "7": {
-          "value": "0.7",
-          "type": "opacity"
-        },
-        "8": {
-          "value": "0.8",
-          "type": "opacity"
-        },
-        "9": {
-          "value": "0.9",
-          "type": "opacity"
+          "value": "700",
+          "type": "fontWeights"
         }
       }
     },
-    "black": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "white": {
-      "value": "#ffffff",
-      "type": "color"
+    "opacity": {
+      "1": {
+        "value": "0.1",
+        "type": "opacity"
+      },
+      "2": {
+        "value": "0.2",
+        "type": "opacity"
+      },
+      "3": {
+        "value": "0.3",
+        "type": "opacity"
+      },
+      "4": {
+        "value": "0.4",
+        "type": "opacity"
+      },
+      "5": {
+        "value": "0.5",
+        "type": "opacity"
+      },
+      "6": {
+        "value": "0.6",
+        "type": "opacity"
+      },
+      "7": {
+        "value": "0.7",
+        "type": "opacity"
+      },
+      "8": {
+        "value": "0.8",
+        "type": "opacity"
+      },
+      "9": {
+        "value": "0.9",
+        "type": "opacity"
+      }
     }
   }
 }
