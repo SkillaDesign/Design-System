@@ -1,319 +1,339 @@
 {
-  "global": {
-    "gold": {
-      "value": "#ffd700",
-      "type": "color"
-    },
-    "gold-tint-4": {
-      "value": "#fff7cc",
-      "type": "color"
-    },
-    "gold-tint-3": {
-      "value": "#ffef99",
-      "type": "color"
-    },
-    "gold-tint-2": {
-      "value": "#ffe766",
-      "type": "color"
-    },
-    "gold-tint-1": {
-      "value": "#ffdf33",
-      "type": "color"
-    },
-    "gold-shade-1": {
-      "value": "#ccac00",
-      "type": "color"
-    },
-    "gold-shade-2": {
-      "value": "#998100",
-      "type": "color"
-    },
-    "gold-shade-4": {
-      "value": "#332b00",
-      "type": "color"
-    },
-    "gold-shade-3": {
-      "value": "#665600",
-      "type": "color"
-    },
-    "midnight": {
-      "value": "#000741",
-      "type": "color"
-    },
-    "mdnight-tint-4": {
-      "value": "#cccdd9",
-      "type": "color"
-    },
-    "mdnight-tint-3": {
-      "value": "#999cb3",
-      "type": "color"
-    },
-    "mdnight-tint-2": {
-      "value": "#666a8d",
-      "type": "color"
-    },
-    "mdnight-tint-1": {
-      "value": "#333967",
-      "type": "color"
-    },
-    "blue": {
-      "value": "#0000ff",
-      "type": "color"
-    },
-    "blue-tint-4": {
-      "value": "#ccccff",
-      "type": "color"
-    },
-    "blue-tint-3": {
-      "value": "#9999ff",
-      "type": "color"
-    },
-    "blue-tint-2": {
-      "value": "#6666ff",
-      "type": "color"
-    },
-    "blue-tint-1": {
-      "value": "#3333ff",
-      "type": "color"
-    },
-    "blue-shade-1": {
-      "value": "#0000cc",
-      "type": "color"
-    },
-    "blue-shade-2": {
-      "value": "#000099",
-      "type": "color"
-    },
-    "blue-shade-3": {
-      "value": "#000066",
-      "type": "color"
-    },
-    "blue-shade-4": {
-      "value": "#000033",
-      "type": "color"
-    },
-    "electric-violet": {
-      "value": "#8b00ff",
-      "type": "color"
-    },
-    "electric-violet-tint-4": {
-      "value": "#e8ccff",
-      "type": "color"
-    },
-    "electric-violet-tint-3": {
-      "value": "#d199ff",
-      "type": "color"
-    },
-    "electric-violet-tint-2": {
-      "value": "#b966ff",
-      "type": "color"
-    },
-    "electric-violet-tint-1": {
-      "value": "#a233ff",
-      "type": "color"
-    },
-    "electric-violet-shade-1": {
-      "value": "#6f00cc",
-      "type": "color"
-    },
-    "electric-violet-shade-2": {
-      "value": "#530099",
-      "type": "color"
-    },
-    "electric-violet-shade-3": {
-      "value": "#380066",
-      "type": "color"
-    },
-    "electric-violet-shade-4": {
-      "value": "#1c0033",
-      "type": "color"
-    },
-    "chartreuse": {
-      "value": "#7fff00",
-      "type": "color"
-    },
-    "chartreuse-tint-4": {
-      "value": "#e5ffcc",
-      "type": "color"
-    },
-    "chartreuse-tint-3": {
-      "value": "#ccff99",
-      "type": "color"
-    },
-    "chartreuse-tint-2": {
-      "value": "#b2ff66",
-      "type": "color"
-    },
-    "chartreuse-tint-1": {
-      "value": "#99ff33",
-      "type": "color"
-    },
-    "chartreuse-shades-1": {
-      "value": "#66cc00",
-      "type": "color"
-    },
-    "chartreuse-shades-2": {
-      "value": "#4c9900",
-      "type": "color"
-    },
-    "chartreuse-shades-3": {
-      "value": "#336600",
-      "type": "color"
-    },
-    "chartreuse-shades-4": {
-      "value": "#193300",
-      "type": "color"
-    },
-    "torch-red": {
-      "value": "#fd0e35",
-      "type": "color"
-    },
-    "torch-red-tint-4": {
-      "value": "#ffcfd7",
-      "type": "color"
-    },
-    "torch-red-tint-3": {
-      "value": "#fe9fae",
-      "type": "color"
-    },
-    "torch-red-tint-2": {
-      "value": "#fe6e86",
-      "type": "color"
-    },
-    "torch-red-tint-1": {
-      "value": "#fd3e5d",
-      "type": "color"
-    },
-    "torch-red-shade-1": {
-      "value": "#ca0b2a",
-      "type": "color"
-    },
-    "torch-red-shade-2": {
-      "value": "#980820",
-      "type": "color"
-    },
-    "torch-red-shade-3": {
-      "value": "#650615",
-      "type": "color"
-    },
-    "torch-red-shade-4": {
-      "value": "#33030b",
-      "type": "color"
-    },
-    "neutral": {
-      "value": "#99a0c2",
-      "type": "color"
-    },
-    "neutral-tint-4": {
-      "value": "#ebecf3",
-      "type": "color"
-    },
-    "neutral-tint-3": {
-      "value": "#d6d9e7",
-      "type": "color"
-    },
-    "neutral-tint-2": {
-      "value": "#c2c6da",
-      "type": "color"
-    },
-    "neutral-tint-1": {
-      "value": "#adb3ce",
-      "type": "color"
-    },
-    "neutral-shade-1": {
-      "value": "#7a809b",
-      "type": "color"
-    },
-    "neutral-shade-2": {
-      "value": "#5c6074",
-      "type": "color"
-    },
-    "neutral-shade-3": {
-      "value": "#3d404e",
-      "type": "color"
-    },
-    "neutral-shade-4": {
-      "value": "#1f2027",
-      "type": "color"
+  "ref": {
+    "ref": {
+      "brand-color": {
+        "gold": {
+          "value": "#ffd500",
+          "type": "color",
+          "description": "Gold / Золото\nBrand Color\nref.brand-color.gold: #ffd500\nrgb(255 ,213 ,0)\nhsl(50.1 ,100%, 50%)\ncmyk(0, 16, 100, 0)\nPantone 114 C"
+        },
+        "gold-tint-8": {
+          "value": "#fff7cc",
+          "type": "color",
+          "description": "Gold Tint 8 / Золотой оттенок 8\nBrand Color / Фирменный цвет\nref.brand-color.gold-tint-8: #fff7cc\nrgb(255, 247, 204)\nhsl(50.6, 100%, 90%)\ncmyk(0, 3, 20, 0)"
+        },
+        "gold-tint-6": {
+          "value": "#ffee99",
+          "type": "color",
+          "description": "Gold Tint 6 / Золотой оттенок 6\nBrand Color / Фирменный цвет\nref.brand-color.gold-tint-6: #ffee99\nrgb(255, 238, 153)\nhsl(50, 100%, 80%)\ncmyk(0, 7, 40, 0)\nPantone 600 C"
+        },
+        "gold-tint-4": {
+          "value": "#ffe666",
+          "type": "color",
+          "description": "Gold Tint 4 / Золотой оттенок 4\nBrand Color / Фирменный цвет\nref.brand-color.gold-tint-4: #ffe666\nrgb(255, 230, 102)\nhsl(50.2, 100%, 70%)\ncmyk(0, 10, 60, 0)\nPantone 100 C"
+        },
+        "gold-tint-2": {
+          "value": "#ffdd33",
+          "type": "color",
+          "description": "Gold Tint 2 / Золотой оттенок 2\nBrand Color / Фирменный цвет\nref.brand-color.gold-tint-2: #ffdd33\nrgb(255, 221, 51)\nhsl(50, 100%, 60%)\ncmyk(0, 13, 80, 0)\nPantone 115 C"
+        },
+        "gold-shade-2": {
+          "value": "#e5bf00",
+          "type": "color",
+          "description": "Gold Shade 2 / Золотая тень 2\nBrand Color / Фирменный цвет\nref.brand-color.gold-shade-2: #e5bf00\nrgb(229, 191, 0)\nhsl(50, 100%, 44.9%)\ncmyk(0, 17, 100, 10)\nPantone 7406 C"
+        },
+        "gold-shade-4": {
+          "value": "#b39500",
+          "type": "color",
+          "description": "Gold Shade 4 / Золотая тень 4\nBrand Color / Фирменный цвет\nref.brand-color.gold-shade-4: #b39500\nrgb(179, 149, 0)\nhsl(49.9, 100%, 35.1%)\ncmyk(0, 17, 100, 30)\nPantone 613 С "
+        },
+        "gold-shade-6": {
+          "value": "#665500",
+          "type": "color",
+          "description": "Gold Shade 6 / Золотая тень 6\nBrand Color / Фирменный цвет\nref.brand-color.gold-shade-6: #665500\nrgb(102, 85, 0)\nhsl(50, 100%, 20%)\ncmyk(0, 17, 100, 60)"
+        },
+        "gold-shade-8": {
+          "value": "#332b00",
+          "type": "color",
+          "description": "Gold Shade 6 / Золотая тень 8\nBrand Color / Фирменный цвет\nref.brand-color.gold-shade-8: #332b00\nrgb(51, 43, 0)\nhsl(50.6, 100%, 10%)\ncmyk(0, 16, 100, 80)"
+        },
+        "midnight": {
+          "value": "#000729",
+          "type": "color",
+          "description": "Midnight / Полночь\nBrand color\nref.brand-color.midnight: #000729\nrgb(0, 7, 41)\nhsl(229.8, 100%, 8%)\ncmyk(100, 83, 0, 84)"
+        },
+        "midnight-tint-9": {
+          "value": "#e5e6e9",
+          "type": "color",
+          "description": "Midnight Tint 9 / Полночь оттенок 9 \nBrand Color / Фирменный цвет\nref.brand-color.midnight-tint-9: #e5e6e9\nrgb(229, 230, 233)\nhsl(225, 8.3%, 90.6%)\ncmyk(2, 1, 0, 9)\nPantone 649 С"
+        },
+        "midnight-tint-8": {
+          "value": "#cccdd4",
+          "type": "color",
+          "description": "Midnight Tint 8 / Полночь оттенок 8 \nBrand Color / Фирменный цвет\nref.brand-color.midnight-tint-8: #cccdd4\nrgb(204 ,205, 212)\nhsl(232.5, 8.5%, 81.6%)\ncmyk(4, 3, 0, 17)\nPantone 427 С"
+        },
+        "midnight-tint-7": {
+          "value": "#b2b4be",
+          "type": "color",
+          "description": "Midnight Tint 7 / Полночь оттенок 7 \nBrand Color / Фирменный цвет\nref.brand-color.midnight-tint-7: #b2b4be\nrgb(178, 180, 190)\nhsl(230, 8.5%, 72.2%)\ncmyk(6, 5, 0, 25)\nPantone 5 С"
+        },
+        "midnight-tint-6": {
+          "value": "#999ca9",
+          "type": "color",
+          "description": "Midnight Tint 6 / Полночь оттенок 6  \nBrand Color / Фирменный цвет\nref.brand-color.midnight-tint-6: #7f8394\nrgb(153, 156, 169)\nhsl(228.7, 8.5%, 63.1%)\ncmyk(9, 8, 0, 34)\nPantone 7543 С"
+        },
+        "midnight-tint-5": {
+          "value": "#7f8394",
+          "type": "color",
+          "description": "Midnight Tint 5 / Полночь оттенок 5 \nBrand Color / Фирменный цвет\nref.brand-color.midnight-tint-5: #7f8394\nrgb(127, 131, 148)\nhsl(228.6, 8.9%, 53.9%)\ncmyk(14, 11, 0, 42)\nPantone 430 С"
+        },
+        "midnight-tint-4": {
+          "value": "#666a7f",
+          "type": "color",
+          "description": "Midnight Tint 4 / Полночь оттенок 4\nBrand Color / Фирменный цвет\nref.brand-color.midnight-tint-4:   #666a7f\nrgb(102, 106, 127)\nhsl(230.4, 10.9%, 44.9%)\ncmyk(20, 17, 0, 50)"
+        },
+        "midnight-tint-3": {
+          "value": "#4c5169",
+          "type": "color",
+          "description": "Midnight Tint 3 / Полночь оттенок 3\nBrand Color / Фирменный цвет\nref.brand-color.midnight-tint-3:  #4c5169\nrgb(76, 81, 105)\nhsl(229.7, 16%, 35.5%)\ncmyk(28, 23, 0, 59)\nPantone 7545 С"
+        },
+        "midnight-tint-2": {
+          "value": "#333954",
+          "type": "color",
+          "description": "Midnight Tint 2 / Полночь оттенок 2\nBrand Color / Фирменный цвет\nref.brand-color.midnight-tint-2: #333954\nrgb(51, 57, 84)\nhsl(229.1, 24.4%, 26.5%)\ncmyk(39, 32, 0, 67)\nPantone 432 С"
+        },
+        "midnight-tint-1": {
+          "value": "#191f3e",
+          "type": "color",
+          "description": "Midnight Tint 1 / Полночь оттенок 1\nBrand Color / Фирменный цвет\nref.brand-color.midnight-tint-1: #191f3e\nrgb(25, 31, 62)\nhsl(230.3, 42.5%, 17.1%)\ncmyk(60, 50, 0, 76)\nPantone 289 C"
+        }
+      },
+      "base-color": {
+        "blue": {
+          "value": "#002cfb",
+          "type": "color",
+          "description": "Blue / Синий\nBase Color\nref.base-color.blue: #002cfb\nrgb (0, 44, 251)\nhsl(229.5, 100%, 49.2%)\ncmyk(100, 82, 0, 2)"
+        },
+        "blue-tint-8": {
+          "value": "#ccd5fe",
+          "type": "color",
+          "description": "Blue Tint 8 / Синий оттенок 8\nBase Color /  Базовый цвет\nref.base-color.blue-tint-8: #ccd5fe\nrgb(204, 213, 254)\nhsl(229.2, 96.2% ,89.8%)\ncmyk(20, 16, 0, 0)"
+        },
+        "blue-tint-6": {
+          "value": "#99abfd",
+          "type": "color",
+          "description": "Blue Tint 6 / Синий оттенок 6\nBase Color /  Базовый цвет\nref.base-color.blue-tint-6: #99abfd\nrgb(153, 171, 253)\nhsl(229.2, 96.2%, 79.6%)\ncmyk(40, 32, 0, 1)"
+        },
+        "blue-tint-4": {
+          "value": "#6680fd",
+          "type": "color",
+          "description": "Blue Tint 4 / Синий оттенок 4\nBase Color /  Базовый цвет\nref.base-color.blue-tint-4: #6680fd\nrgb(102, 128, 253)\nhsl(229.7, 97.4%, 69.6%)\ncmyk(60, 49, 0, 1)"
+        },
+        "blue-tint-2": {
+          "value": "#3356fc",
+          "type": "color",
+          "description": "Blue Tint 2 / Синий оттенок 2\nBase Color /  Базовый цвет\nref.base-color.blue-tint-2: #3356fc\nrgb(51, 86, 252)\nhsl(229.6, 97.1%, 59.4%)\ncmyk(80, 66, 0, 1)"
+        },
+        "blue-shade-2": {
+          "value": "#0023c9",
+          "type": "color",
+          "description": "Blue Shade 2 / Синяя Тень 2\nBase Color /  Базовый цвет\nref.base-color.blue-shade-2: #0023c9\nrgb(0, 35, 201)\nhsl(229.6, 100%, 39.4%)\ncmyk(100, 83, 0, 21)"
+        },
+        "blue-shade-4": {
+          "value": "#001a97",
+          "type": "color",
+          "description": "Blue Shade 4 / Синяя Тень 4\nBase Color /  Базовый цвет\nref.base-color.blue-shade-4: #001a97\nrgb(0, 26, 151)\nhsl(229.7, 100%, 29.6%)\ncmyk(100, 83, 0, 41)\nPantone 00239 C"
+        },
+        "blue-shade-6": {
+          "value": "#000d4c",
+          "type": "color",
+          "description": "Blue Shade 6 / Синяя Тень 6\nBase Color /  Базовый цвет\nref.base-color.blue-shade-6: #000d4c\nrgb(0, 13, 76)\nhsl(229.7, 100%, 14.9%)\ncmyk(100, 83, 0, 70)"
+        },
+        "purple": {
+          "value": "#8800ff",
+          "type": "color",
+          "description": "Purple / Фиолетовый\nBase Color\nref.base-color.purple: #8800ff\nrgb(136, 0, 255)\nhsl(272, 100%, 50%)\ncmyk(47, 100, 0, 0)\n"
+        },
+        "purple-tint-8": {
+          "value": "#e3c4ff",
+          "type": "color",
+          "description": "Purple Tint 8 / Фиолетовый оттенок 8\nBase Color /  Базовый цвет\nref.base-color.purple-tint-8: #e3c4ff\nrgb(227, 196, 255)\nhsl(271.5, 100%, 88.4%)\ncmyk(11, 23, 0, 0)"
+        },
+        "purple-tint-6": {
+          "value": "#cf99ff",
+          "type": "color",
+          "description": "Purple Tint 6 / Фиолетовый оттенок 6\nBase Color /  Базовый цвет\nref.base-color.purple-tint-6: #cf99ff\nrgb(207, 153, 255)\nhsl(271.8, 100%, 80%)\ncmyk(19, 40, 0, 0)"
+        },
+        "purple-tint-4": {
+          "value": "#b866ff",
+          "type": "color",
+          "description": "Purple Tint 4 / Фиолетовый оттенок 4\nBase Color /  Базовый цвет\nref.base-color.purple-tint-4: #b866ff\nrgb(184, 102, 255)\nhsl(272.2, 100%, 70%)\ncmyk(28, 60, 0, 0)"
+        },
+        "purple-tint-2": {
+          "value": "#a033ff",
+          "type": "color",
+          "description": "Purple Tint 2 / Фиолетовый оттенок 2\nBase Color /  Базовый цвет\nref.base-color.purple-tint-2: #a033ff\nrgb(160, 51, 255)\nhsl(272.1, 100%, 60%)\ncmyk(37, 80, 0, 0)"
+        },
+        "purple-shade-2": {
+          "value": "#6d00cc",
+          "type": "color",
+          "description": "Purple Shade 2 / Фиолетовая тень 2\nBase Color /  Базовый цвет\nref.base-color.purple-shade-2: #6d00cc\nrgb(109, 0, 204)\nhsl(272.1, 100%, 40%)\ncmyk(47, 100, 0, 20)"
+        },
+        "purple-shade-4": {
+          "value": "#5f00b2",
+          "type": "color",
+          "description": "Purple Shade 4 / Фиолетовая тень 4\nBase Color /  Базовый цвет\nref.base-color.purple-shade-4: #5f00b2\nrgb(95, 0, 178)\nhsl(272, 100%, 34.9%)\ncmyk(47, 100, 0, 30)"
+        },
+        "purple-shade-6": {
+          "value": "#3d0073",
+          "type": "color",
+          "description": "Purple Shade 6 / Фиолетовая тень 6\nBase Color /  Базовый цвет\nref.base-color.purple-shade-6: #3d0073\nrgb(61, 0, 115)\nhsl(271.8, 100%, 22.5%)\ncmyk(47, 100, 0, 55)\nPantone 2685 C"
+        },
+        "purple-shade-8": {
+          "value": "#2d0055",
+          "type": "color",
+          "description": "Purple Shade 8 / Фиолетовая тень 8\nBase Color /  Базовый цвет\nref.base-color.purple-shade-8: #2d0055\nrgb(45, 0, 85)\nhsl(271.8, 100%, 16.7%)\ncmyk(47, 100, 0, 67)\nPantone 2685 C"
+        },
+        "light-green": {
+          "value": "#00ff88",
+          "type": "color",
+          "description": "Light-Green / Cветло-Зеленый \nBase Color\nref.base-color.light-green: #00ff88\nrgb(0, 255, 136)\nhsl(152, 100%, 50%)\ncmyk(100, 0, 47, 0)"
+        },
+        "light-green-tint-8": {
+          "value": "#ccffe7",
+          "type": "color",
+          "description": "Light-Green Tint 8 / Светло- зеленый оттенок 8\nBase Color /  Базовый цвет\nref.base-color.light-green-tint-8: #ccffe7\nrgb(204, 255, 231)\nhsl(151.8, 100%, 90%)\ncmyk(20, 0, 9, 0)"
+        },
+        "light-green-tint-6": {
+          "value": "#99ffcf",
+          "type": "color",
+          "description": "Light-Green Tint 6 / Светло- зеленый оттенок 6\nBase Color /  Базовый цвет\nref.base-color.light-green-tint-6: #99ffcf\nrgb(153, 255, 207)\nhsl(151.8, 100%, 80%)\ncmyk(40, 0, 19, 0)"
+        },
+        "light-green-tint-4": {
+          "value": "#66ffb8",
+          "type": "color",
+          "description": "Light-Green Tint 4 / Светло- зеленый оттенок 4\nBase Color /  Базовый цвет\nref.base-color.light-green-tint-4: #66ffb8\nrgb(102, 255, 184)\nhsl(152.2, 100%, 70%)\ncmyk(60, 0, 28, 0)"
+        },
+        "light-green-tint-2": {
+          "value": "#33ffa0",
+          "type": "color",
+          "description": "Light-Green Tint 2 / Светло- зеленый оттенок 2\nBase Color /  Базовый цвет\nref.base-color.light-green-tint-2: #33ffa0\nrgb(51, 255, 160)\nhsl(152.1, 100%, 60%)\ncmyk(80, 0, 37, 0)"
+        },
+        "light-green-shade-2": {
+          "value": "#00e57b",
+          "type": "color",
+          "description": "Light-Green Shade 2 / Светло- зеленая тень 2\nBase Color /  Базовый цвет\nref.base-color.light-green-shade-2: #00e57b\nrgb(0, 229, 123)\nhsl(152.2, 100%, 44.9%)\ncmyk(100, 0, 46, 10)"
+        },
+        "light-green-shade-4": {
+          "value": "#00b260",
+          "type": "color",
+          "description": "Light-Green Shade 4 / Светло зеленая тень 4\nBase Color /  Базовый цвет\nref.base-color.light-green-shade-4: #00b260\nrgb(0, 178, 96)\nhsl(152.4, 100%, 34.9%)\ncmyk(100, 0, 46, 30)\nPantone 3405 C"
+        },
+        "light-green-shade-6": {
+          "value": "#006636",
+          "type": "color",
+          "description": "Light-Green Shade 6 / Светло зеленая тень 6\nBase Color /  Базовый цвет\nref.base-color.light-green-shade-6: #006636\nrgb(0,102,54)\nhsl(151.8, 100%, 20%)\ncmyk(100, 0, 47, 60)\nPantone 349 C"
+        },
+        "light-green-shade-8": {
+          "value": "#00331b",
+          "type": "color",
+          "description": "Light-Green Shade 8 / Светло зеленая тень 8\nBase Color /  Базовый цвет\nref.base-color.light-green-shade-8: #00331b\nrgb(0, 51, 27)\nhsl(151.8, 100%, 10%)\ncmyk(100, 0, 47, 80)"
+        },
+        "red": {
+          "value": "#ff0041",
+          "type": "color",
+          "description": "Red / Красный\nBase Color\nref.base-color.red: #ff0041\nrgb(255, 0, 65)\nhsl(344.7, 100%, 50%)\ncmyk(0, 100, 75, 0)"
+        },
+        "red-tint-8": {
+          "value": "#ffccd6",
+          "type": "color",
+          "description": "Red Tint 8 / Красный оттенок 8\nBase Color /  Базовый цвет\nref.base-color.red-tint-8: #ffccd6\nrgb(255, 204, 214)\nhsl(348.2, 100%, 90%)\ncmyk(0, 20, 16, 0)\nPantone 706 C"
+        },
+        "red-tint-6": {
+          "value": "#ff99b4",
+          "type": "color",
+          "description": "Red Tint 6 / Красный оттенок 6\nBase Color /  Базовый цвет\nref.base-color.red-tint-6: #ff99b4\nrgb(255, 153, 180)\nhsl(344.1, 100% ,80%)\ncmyk(0, 40, 29, 0)\nPantone 1905 C"
+        },
+        "red-tint-4": {
+          "value": "#ff668e",
+          "type": "color",
+          "description": "Red Tint 4 / Красный оттенок 4\nBase Color /  Базовый цвет\nref.base-color.red-tint-4: #ff668e\nrgb(255, 102, 142)\nhsl(344.3, 100%, 70%)\ncmyk(0, 60, 44, 0)\n"
+        },
+        "red-tint-2": {
+          "value": "#ff3366",
+          "type": "color",
+          "description": "Red Tint 2 / Красный оттенок 2\nBase Color /  Базовый цвет\nref.base-color.red-tint-2: #ff3366\nrgb(255 ,51 ,102)\nhsl(345, 100%, 60%)\ncmyk(0, 80, 60, 0)"
+        },
+        "red-shade-2": {
+          "value": "#cc0034",
+          "type": "color",
+          "description": "Red Shade 2 / Красная тень 2\nBase Color /  Базовый цвет\nref.base-color.red-shade-2: #cc0034\nrgb(204 ,0 , 52)\nhsl(344.7, 100%, 40%)\ncmyk(0, 100, 75, 20)\nPantone 206 C"
+        },
+        "red-shade-4": {
+          "value": "#b5002e",
+          "type": "color",
+          "description": "Red Shade 4 / Красная тень 4\nBase Color /  Базовый цвет\nref.base-color.red-shade-4: #b5002e\nrgb(181,0,46)\nhsl(344.8,100%,35.5%)\ncmyk(0,100,75,29)\nPantone 200 C"
+        },
+        "red-shade-6": {
+          "value": "#7f0020",
+          "type": "color",
+          "description": "Red Shade 6 / Красная тень 6\nBase Color /  Базовый цвет\nref.base-color.red-shade-6: #7f0020\nrgb(127,0,32)\nhsl(344.9, 100%, 24.9%)\ncmyk(0, 100, 75, 50)\n"
+        },
+        "red-shade-8": {
+          "value": "#33000c",
+          "type": "color",
+          "description": "Red Shade 8 / Красная тень 8\nBase Color /  Базовый цвет\nref.base-color.red-shade-8: #33000c\nrgb(51, 0, 12)\nhsl(345.9, 100%, 10%)\ncmyk(0, 100, 76, 80)"
+        }
+      },
+      "brand-typeface": {
+        "regular": {
+          "value": "Raleway Regular",
+          "type": "fontFamilies"
+        },
+        "semibold": {
+          "value": "Raleway Semibold",
+          "type": "fontFamilies"
+        },
+        "bold": {
+          "value": "Raleway Bold",
+          "type": "fontFamilies"
+        }
+      },
+      "opacity": {
+        "1": {
+          "value": "0.1",
+          "type": "opacity"
+        },
+        "2": {
+          "value": "0.2",
+          "type": "opacity"
+        },
+        "3": {
+          "value": "0.3",
+          "type": "opacity"
+        },
+        "4": {
+          "value": "0.4",
+          "type": "opacity"
+        },
+        "5": {
+          "value": "0.5",
+          "type": "opacity"
+        },
+        "6": {
+          "value": "0.6",
+          "type": "opacity"
+        },
+        "7": {
+          "value": "0.7",
+          "type": "opacity"
+        },
+        "8": {
+          "value": "0.8",
+          "type": "opacity"
+        },
+        "9": {
+          "value": "0.9",
+          "type": "opacity"
+        }
+      }
     },
     "black": {
       "value": "#000000",
       "type": "color"
     },
-    "black-90%": {
-      "value": "#000000e6",
-      "type": "color"
-    },
-    "black-80%": {
-      "value": "#000000cc",
-      "type": "color"
-    },
-    "black-70%": {
-      "value": "#000000b3",
-      "type": "color"
-    },
-    "black-60%": {
-      "value": "#00000099",
-      "type": "color"
-    },
-    "black-50%": {
-      "value": "#00000080",
-      "type": "color"
-    },
-    "black-40%": {
-      "value": "#00000066",
-      "type": "color"
-    },
-    "black-30%": {
-      "value": "#0000004d",
-      "type": "color"
-    },
-    "black-20%": {
-      "value": "#00000033",
-      "type": "color"
-    },
-    "black-10%": {
-      "value": "#0000001a",
-      "type": "color"
-    },
     "white": {
       "value": "#ffffff",
-      "type": "color"
-    },
-    "white-90%": {
-      "value": "#ffffffe6",
-      "type": "color"
-    },
-    "white-80%": {
-      "value": "#ffffffcc",
-      "type": "color"
-    },
-    "white-70%": {
-      "value": "#ffffffb3",
-      "type": "color"
-    },
-    "white-60%": {
-      "value": "#ffffff99",
-      "type": "color"
-    },
-    "white-50%": {
-      "value": "#ffffff80",
-      "type": "color"
-    },
-    "white-40%": {
-      "value": "#ffffff66",
-      "type": "color"
-    },
-    "white-30%": {
-      "value": "#ffffff4d",
-      "type": "color"
-    },
-    "white-20%": {
-      "value": "#ffffff33",
-      "type": "color"
-    },
-    "white-10%": {
-      "value": "#ffffff1a",
       "type": "color"
     }
   }
