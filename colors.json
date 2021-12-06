@@ -394,43 +394,43 @@
     },
     "font-size": {
       "x-small": {
-        "value": "0.75 * {font-size.root}",
+        "value": "0.75 * {ref.font-size.root}",
         "type": "fontSizes"
       },
       "small": {
-        "value": "0.875 * {font-size.root}",
+        "value": "0.875 * {ref.font-size.root}",
         "type": "fontSizes"
       },
       "medium": {
-        "value": "{font-size.root}",
+        "value": "{ref.font-size.root}",
         "type": "fontSizes"
       },
       "large": {
-        "value": "1.38 * {font-size.root}",
+        "value": "1.38 * {ref.font-size.root}",
         "type": "fontSizes"
       },
       "headline-small": {
-        "value": "1.5 * {font-size.root}",
+        "value": "1.5 * {ref.font-size.root}",
         "type": "fontSizes"
       },
       "headline-medium": {
-        "value": "1.75 * {font-size.root}",
+        "value": "1.75 * {ref.font-size.root}",
         "type": "fontSizes"
       },
       "headline-large": {
-        "value": "2 * {font-size.root}",
+        "value": "2 * {ref.font-size.root}",
         "type": "fontSizes"
       },
       "display-small": {
-        "value": "2.25 * {font-size.root}",
+        "value": "2.25 * {ref.font-size.root}",
         "type": "fontSizes"
       },
       "display-medium": {
-        "value": "2.81 * {font-size.root}",
+        "value": "2.81 * {ref.font-size.root}",
         "type": "fontSizes"
       },
       "display-large": {
-        "value": "3.56 * {font-size.root}",
+        "value": "3.56 * {ref.font-size.root}",
         "type": "fontSizes"
       }
     },
@@ -472,8 +472,8 @@
     },
     "Display Large": {
       "value": {
-        "fontFamily": "{typeface.brand-font}",
-        "fontWeight": "{typeface.weight.bold}",
+        "fontFamily": "{ref.typeface.brand-font}",
+        "fontWeight": "{ref.typeface.weight.bold}",
         "lineHeight": "{line-heights.112}",
         "fontSize": "{font-size.display-large}",
         "letterSpacing": "{letter-spacing.0}",
@@ -485,7 +485,7 @@
     },
     "Display Medium": {
       "value": {
-        "fontFamily": "{typeface.brand-font}",
+        "fontFamily": "{ref.typeface.brand-font}",
         "fontWeight": "$fontWeights.raleway-0",
         "lineHeight": "{lineHeights.115}",
         "fontSize": "{fontSize.display-medium}",
