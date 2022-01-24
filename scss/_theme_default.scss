@@ -1,0 +1,6 @@
+$theme: (
+  primary: map.get($base-colors, midnight),
+  secondary: map.get($brand-colors, gold),
+  on-primary: white,
+  on-secondary: map.get($base-colors, midnight) ;
+);

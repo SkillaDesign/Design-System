@@ -1,0 +1,34 @@
+@use "sass:map"
+@use "palette"
+
+$midnight: (
+  primary: map.get($base-colors, midnight),
+  secondary: map.get($brand-colors, gold),
+  on-primary: white,
+  on-secondary: map.get($base-colors, midnight)
+);
+
+$gold: (
+  primary: map.get($base-colors, gold),
+  secondary: map.get($brand-colors, midnight),
+  on-primary: midnight,
+  on-secondary: white
+);
+$accent: (
+  basic: map.get($base-colors, blue),
+  alternative: (
+    first: map.get($base-colors, light-green),
+    second: map.get($base-colors, purple)
+  )
+  attention: map.get($base-colors, red)
+);
+$classic: (
+  surface: white,
+  on-surface: map.get($base-colors, midnight)
+  background: get-tint(map.get($brand-colors, midnight), 1)
+);
+$freestyle: (
+  surface: map.get($theme, primary),
+  on-surface: map.get($theme, on-primary),
+  background: map.get($theme, primary)
+);
